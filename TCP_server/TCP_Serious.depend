@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1746595310 source:c:\users\vijaykarthick\onedrive\desktop\tcp_serious\main.c
+	<winsock2.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
